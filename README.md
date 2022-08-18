@@ -13,4 +13,4 @@
   * 데이터 참조 : https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
   * 이미지 
   * 내용 : Stroke Prediction dataset에 대해 기본 모델을 만들어보고 모델 평가까지 해본다.
-	  * IRIS 기본 모델 만들기 [html]()
+	  * STROKE 기본 모델 및 평가 [html]()
